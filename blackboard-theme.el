@@ -12,6 +12,8 @@
 ;; Package-Requires: ((emacs "24"))
 ;; URL: https://github.com/don9z/blackboard-theme
 
+;;; Commentary:
+
 ;; This porting makes blackboard-theme no longer rely on color-theme package
 
 ;; How to use:
@@ -21,9 +23,8 @@
 ;; M-x load-theme, then choose blackboard, it should work
 ;; Or, simple use (load-theme 'blackboard t) to enable the theme from start.
 
+;;; Code:
 
-
-;;; Code
 (deftheme blackboard
   "Based on Color theme by JD Huntington, which based off the TextMate Blackboard theme, created 2008-11-27")
 
