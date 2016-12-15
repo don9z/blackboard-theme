@@ -7,4 +7,4 @@ since Emacs has it's theme mechanism from Emacs 24.
 2. Then drop this theme into it
 3. `M-x load-theme`, then choose blackboard, it should work, or, simple use `(load-theme 'blackboard t)` to enable the theme from start.
 
-![screenshot](http://farm8.staticflickr.com/7404/9146526433_b3408a616d.jpg)
+![screenshot](https://github.com/don9z/blackboard-theme/blob/master/screenshot.png?raw=true)
