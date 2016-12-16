@@ -1,4 +1,4 @@
-;;; blackboard-theme.el --- TextMate Blackboard Theme for Emacs.
+;;; blackboard-theme.el --- TextMate Blackboard Theme
 
 ;; MIT License Copyright (c) 2008 JD Huntington <jdhuntington at gmail dot com>
 ;; Credits due to the excellent TextMate Blackboard theme
